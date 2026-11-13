@@ -1,0 +1,14 @@
+Dental Lab UI/UX v0.3
+======================
+Reference-inspired desktop redesign:
+- Cool gray application canvas + white rounded cards.
+- Navy typography with teal primary actions.
+- Cleaner sidebar and active teal navigation.
+- Compact, consistent form controls and dialogs.
+- Readable labels throughout Add/Edit dialogs.
+- Explicit QComboBox popup styling to fix invisible dropdown text on Windows dark mode.
+- Fusion/light Qt palette to keep native popup widgets readable.
+- More polished dashboard KPI cards and chart containers.
+- Cleaner tables, headers, selection states, scrollbars, and toolbars.
+
+No database/business logic changes are included in this UI patch.

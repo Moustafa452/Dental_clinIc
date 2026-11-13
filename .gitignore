@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+
+# Local build/cache environment
+.build-env/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Build outputs
+build/
+dist/
+release/
+
+# Patch backups
+ui_patch_backups/
+pdf_patch_backups/
+packaging_patch_backups/
+branding_patch_backups/
+commission_delete_patch_backups/
+workflow_costing_patch_backups/
+owner_edit_patch_backups/
+owner_table_edit_v1_backups/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
